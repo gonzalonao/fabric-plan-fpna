@@ -3,8 +3,8 @@
 ## Project
 
 FP&A budgeting/variance loop on Fabric Plan (preview) (P3). Plan:
-`wiki/learning/fabric/fabric-p3-plan-fpna.md` in the workspace wiki (master:
-`fabric-portfolio-plan.md`).
+`docs/fabric-p3-plan-fpna.md` (master: `fabric-portfolio-plan.md` in the
+workspace wiki).
 
 ## Branching — develop-flow
 
